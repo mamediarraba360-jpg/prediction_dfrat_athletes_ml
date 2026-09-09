@@ -39,3 +39,6 @@ Les performances des modèles ont été évaluées à l'aide de métriques de cl
 
 - `prediction_athletes_ml.ipynb` : notebook contenant l'analyse et les modèles de Machine Learning.
 - `README.md` : présentation du projet.
+- dfat.csv données brutes
+- main.py code
+- NFL.csv resultat
